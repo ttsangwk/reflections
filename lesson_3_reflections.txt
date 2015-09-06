@@ -8,3 +8,10 @@ When you want to have an online repository
 When you want to share with others
 When you want to collaborate on projects.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are clones on Github. clones are copies of repositories. Branches are used to split code/work into streams
+to enable experimentation and features etc.
+
+
+
