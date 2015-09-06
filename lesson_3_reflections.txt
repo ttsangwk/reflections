@@ -14,4 +14,6 @@ Forks are clones on Github. clones are copies of repositories. Branches are used
 to enable experimentation and features etc.
 
 
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
+Manually controlling the sync will give you the ability to determine which commits and changes you want on your local repository and give you veto rights on the contents of the local repository.
